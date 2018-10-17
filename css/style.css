@@ -85,7 +85,7 @@ display: inline-block;
 
 /*=================== 03. Homepage Background Image ===================*/
 .home_bg {
-  background-image: url(https://via.placeholder.com/960x514);
+  background-image: url(../images/IMG_2400.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
